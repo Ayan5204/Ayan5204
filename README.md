@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan5204&label=Profile%20views&color=0e75b6&style=flat" alt="ayan5204" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Page using Web Development.**
+- 🔭 I’m currently working on **Full Stack Car Rental Website.**
 
 - 🌱 I’m currently learning **Data Structure Algorithm.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayan5204](https://github.com/Ayan5204)
 
-- 💬 Ask me about **DSA,Web development**
+- 💬 Ask me about **DSA,Web development,Leetcode**
 
 - 📫 How to reach me **ayanlal5204@gmail.com**
 
